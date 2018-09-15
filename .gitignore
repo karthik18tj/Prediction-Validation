@@ -1,0 +1,3 @@
+.DS_Store
+insight_testsuite/temp/*
+/venv/**
